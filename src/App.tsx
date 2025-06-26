@@ -541,7 +541,7 @@ function App() {
 
           <div className="border-t border-emerald-800 pt-8 text-center">
             <p className="text-emerald-300">
-              &copy; 2024 PT Sampah Nusantara. Semua hak cipta dilindungi.
+              &copy; 2025 PT Sampah Nusantara. Semua hak cipta dilindungi.
             </p>
           </div>
         </div>
